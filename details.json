@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "title": "SOL Trading Bot",
+  "description": "A Rust trading bot project for experimenting with Solana market automation.",
+  "tags": [
+    "Rust",
+    "Solana",
+    "Trading Bot"
+  ],
+  "featured": false,
+  "order": 210,
+  "links": {
+    "repo": "https://github.com/jstEagle/sol-trading-bot"
+  },
+  "images": []
+}
